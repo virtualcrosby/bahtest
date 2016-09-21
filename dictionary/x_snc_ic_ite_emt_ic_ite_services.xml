@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="IC ITE Services" max_length="40" name="x_snc_ic_ite_emt_ic_ite_services" type="collection">
-        <element label="Custom Name" max_length="40" name="custom_name" type="string"/>
+        <element label="Name" max_length="40" name="custom_name" type="string"/>
+        <element label="Description" max_length="4000" name="description" type="string"/>
     </element>
 </database>

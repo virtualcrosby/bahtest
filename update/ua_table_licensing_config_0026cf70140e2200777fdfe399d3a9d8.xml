@@ -9,15 +9,15 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>brian.crosby</sys_created_by>
         <sys_created_on>2016-09-21 18:09:34</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>fd240bfc4f0ae600b6628e328110c7bb</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0026cf70140e2200777fdfe399d3a9d8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_ic_ite_emt_ic_ite_services</sys_name>
         <sys_package display_value="IC ITE EMT" source="x_snc_ic_ite_emt">a9a30bbc4f0ae600b6628e328110c7f5</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="IC ITE EMT">a9a30bbc4f0ae600b6628e328110c7f5</sys_scope>
-        <sys_update_name>ua_table_licensing_config_fd240bfc4f0ae600b6628e328110c7bb</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_0026cf70140e2200777fdfe399d3a9d8</sys_update_name>
         <sys_updated_by>brian.crosby</sys_updated_by>
         <sys_updated_on>2016-09-21 18:09:34</sys_updated_on>
     </ua_table_licensing_config>

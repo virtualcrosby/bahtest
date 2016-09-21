@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>brian.crosby</sys_created_by>
         <sys_created_on>2016-09-21 18:09:32</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>55240bfc4f0ae600b6628e328110c7a9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_ic_ite_emt_ic_ite_services</sys_name>

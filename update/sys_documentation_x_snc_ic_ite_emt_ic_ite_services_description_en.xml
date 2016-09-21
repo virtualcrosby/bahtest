@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="custom_name" label="Name" language="en" table="x_snc_ic_ite_emt_ic_ite_services">
+    <sys_documentation element="description" label="Description" language="en" table="x_snc_ic_ite_emt_ic_ite_services">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>custom_name</element>
+            <element>description</element>
             <help/>
             <hint/>
-            <label>Name</label>
+            <label>Description</label>
             <language>en</language>
             <name>x_snc_ic_ite_emt_ic_ite_services</name>
-            <plural>Names</plural>
+            <plural>Descriptions</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>brian.crosby</sys_created_by>
-            <sys_created_on>2016-09-21 18:16:51</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
-            <sys_id>acd547f84f0ae600b6628e328110c77e</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Name</sys_name>
+            <sys_created_by>hodgins_randall</sys_created_by>
+            <sys_created_on>2016-09-21 18:19:59</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>da868bb0140e2200777fdfe399d3a915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Description</sys_name>
             <sys_package display_value="IC ITE EMT" source="x_snc_ic_ite_emt">a9a30bbc4f0ae600b6628e328110c7f5</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="IC ITE EMT">a9a30bbc4f0ae600b6628e328110c7f5</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_ic_ite_emt_ic_ite_services_custom_name_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_ic_ite_emt_ic_ite_services_description_en</sys_update_name>
             <sys_updated_by>hodgins_randall</sys_updated_by>
-            <sys_updated_on>2016-09-21 18:19:08</sys_updated_on>
+            <sys_updated_on>2016-09-21 18:19:59</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
